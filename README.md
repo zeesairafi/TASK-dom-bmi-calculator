@@ -1,10 +1,8 @@
-# TASK-NAME
+# BMI-Calculator
 
-This is the template for tasks. These repos are the starting points and instructions for students to explore a concept.
+BMI is Body Mass Index, and we usually use it to measure if our weight is within the normal range, or not.
 
 ## Instructions
-
-Add instructions here. This is github flavoured markdown so you can be as creative as you want. Add code snippets, images, gifs, checkboxes, anything you want.
 
 ### 1. Extract Components
 
@@ -21,7 +19,7 @@ It should look like this:
 Explanation of the thing and why we're about to do it. Cool right?
 
 - [ ] Make a `store.js` file
-- [ ] Copy + Paste broken code:  
+- [ ] Copy + Paste broken code:
   ```js
   console.log("lol");
   ```
