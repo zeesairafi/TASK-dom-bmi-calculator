@@ -20,7 +20,7 @@ const bmi = weight/(height/100*height/100)
 } else if(bmi>=25 && weight<=29.9){
 alert("Overweight"); 
 }
-else if(bmi>=30){
+else {
   alert("Above Obesity");
 }
 
