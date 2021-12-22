@@ -5,7 +5,7 @@ BMI is Body Mass Index, and we usually use it to measure if our weight is within
 ## Instructions
 
 ### 1. Challenge 1 :
-1. go to index.js file and use the variables to calculate the BMI, the equation for BMI is (weight (kg) / height^2)
+1. go to index.js file and use the variables to calculate the BMI, the equation for BMI is (weight (kg) / height^2(m)), dont forget to convert cm to m
 2. show the results in an alert 
 
 ### 2. Challenge 2 :
