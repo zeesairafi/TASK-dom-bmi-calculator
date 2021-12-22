@@ -1,5 +1,5 @@
 # BMI-Calculator
-Fork and clone (this repo)[https://github.com/JoinCODED/TASK-dom-bmi-calculator]
+Fork and clone [this repo](https://github.com/JoinCODED/TASK-dom-bmi-calculator)
 BMI is Body Mass Index, and we usually use it to measure if our weight is within the normal range, or not.
 
 ## Instructions
