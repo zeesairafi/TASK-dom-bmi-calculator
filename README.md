@@ -18,7 +18,7 @@ BMI is Body Mass Index, and we usually use it to measure if our weight is within
 
 
 ### 3. Challenge 3 :
-1. using the result you calculated in challenge 1 check the BMI state BUT based on gender and age
+1. using the result you calculated in challenge 1 check the BMI state BUT based on age
 2. use the following image for reference 
  ![image](https://user-images.githubusercontent.com/52189918/147039867-608e56ae-cc05-4682-9755-3ae3891520e2.png)
 3. show the BMI state in an alert
